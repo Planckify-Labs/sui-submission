@@ -27,7 +27,8 @@ What you'll see: a plain-language goal → a **decoded PTB preview** + guardian 
 ![Intent preview + guardian rows](docs/screenshots/intent-preview.png)
 ![Guardian blocking a risky intent](docs/screenshots/guardian-block.png)
 -->
-> _Screenshots: intent preview card · guardian blocking a risky intent — see `docs/screenshots/` (add before judging)._
+> <img width="727" height="1600" alt="image" src="https://github.com/user-attachments/assets/672202c1-40c8-4bde-97e0-625a0fe5cd82" />
+
 
 ## Why Sui specifically
 
