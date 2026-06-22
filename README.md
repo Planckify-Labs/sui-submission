@@ -50,7 +50,7 @@ that makes the AI safer.
 The engine executes against **live Sui DeFi, not mocks** — both shown in the demo:
 
 - **Swaps → DeepBook v3** — Mysten's on-chain central limit order book. The agent pulls a real quote (which also feeds the slippage guardian) and routes the swap through DeepBook v3.
-- **Yield (supply / withdraw) → Scallop** — Sui's lending money market, via its official SDK.
+- **Yield (supply / withdraw) → Scallop** — Sui's lending money market.
 
 ## The guardian — the make-or-break
 
